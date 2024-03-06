@@ -26,7 +26,7 @@ To get a local copy up and running follow these simple steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/dni736/burgers.git
+   git clone https://github.com/Saaayurii/burgers-Angular-.git
 2. Navigate into the project directory:
    cd burgers
 3. Open the index.html file in your web browser.
