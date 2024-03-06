@@ -32,4 +32,9 @@ To get a local copy up and running follow these simple steps:
 3. Open the index.html file in your web browser.
 
 ## Screenshots
+![Screenshot of Home Page](screenshots/Screenshot_7.jpg)
+![Screenshot of Home Page1](screenshots/Screenshot_3.jpg)
+![Screenshot of Home Page2](screenshots/Screenshot_1.jpg)
+![Screenshot of Home Page3](screenshots/Screenshot_2.jpg)
+
  
