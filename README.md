@@ -33,8 +33,11 @@ To get a local copy up and running follow these simple steps:
 
 ## Screenshots
 ![Screenshot of Home Page](screenshots/Screenshot_7.png)
+
 ![Screenshot of Home Page1](screenshots/Screenshot_3.png)
+
 ![Screenshot of Home Page2](screenshots/Screenshot_1.png)
+
 ![Screenshot of Home Page3](screenshots/Screenshot_2.png)
 
  
